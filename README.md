@@ -3,13 +3,13 @@
   <h3 align="center">I am a senior software developer from Vietnam 🇻🇳 </h3>
 </p>
 
-> ✍ I'm a software developer at [Dien vao cho trong =))].
+> ✍ I'm Atopas VN, your trusted partner in software development, mobile apps, and websites development 🚀.
 
 ## 📫 How to reach me:
 <!-- Chỗ này mình đưa link contact app của mình vô sau --!>
 <!-- Link icon cần dùng nha ae: https://icons8.com/ --!>
 <p align="center">
-  <a href="" target="_blank">
+  <a href="https://www.linkedin.com/company/atopas-vn/" target="_blank">
     <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
   </a>
   <a href="" alt="Facebook">
